@@ -1,0 +1,39 @@
+(function () {try { 
+
+			var ifrm = document.createElement("IFRAME");ifrm.onerror = ifrm.onload = function () {ifrm.onerror = ifrm.onload = null;};
+		
+		
+		ifrm.setAttribute("frameborder","0");ifrm.setAttribute("width","0");ifrm.setAttribute("height","0");ifrm.setAttribute("marginwidth","0");ifrm.setAttribute("marginheight","0");
+		
+		
+		
+		ifrm.setAttribute("scrolling","no");
+		
+		
+		
+		ifrm.setAttribute("src", "https://secure-gl.imrworldwide.com/ocr/e?aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL2JyYW5kbGlmdC5waHA.Y2FtcGFpZ25faWQ9MGE0NzBmYWQ3YTBhYjY1NDYyMTczMTQyMmZhMmNhNGU5OGMxNjY1NDA3OTVlYmZhNWRhZjUzOTI4MGQzZDJlOSZjcmVhdGl2ZV9pZD02Y2E0ZjRlNmZiYTI5M2VlM2M1ZDQwYTY4YmI3ZjVlMDRkNzczZTk5YzQ3ZWVjNDczODlkMjkwZGE1N2Y1YzEyJnBsYWNlbWVudF9pZD04ZTA2YjQ0NTZiZTQyY2YwZTA1MmMyMWUwYzBjM2JiMTBiMzc1MzgzN2FhNDliYzM0YWVjMjJhZWU0NDAwMGJhJm1lZGlhX3R5cGU9aW1hZ2UmY29udGVudF90eXBlPWpzJnNlZ21lbnQxPUlOJnNlZ21lbnQyPTkxMTA1JnNlZ21lbnQzPU5BJm9zdmVyc2lvbj1XaW5kb3dzMTBOVDEwLjAmZGV2aWNlX3R5cGU9RFNLJnBsYXRmb3JtPURTSyZhZHZlcnRpc2VyX2lkPURTSyZ2ZXI9MSZjcmVhdGl2ZV90eXBlPTAmZGF0YV9kYXRlPTIwMTgwNjI4Jmg9NWMxZDg0OTQ0MQ__");
+		document.body.appendChild(ifrm);	
+
+
+} catch(e) {}
+
+
+
+	
+	
+				
+		
+		
+		
+		
+		
+		
+
+
+
+
+
+
+
+
+})();
